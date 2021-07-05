@@ -1,0 +1,54 @@
+@media screen and (max-witdh:1024px)
+	.header  {
+		position : inherit ;
+	}
+	.wrap {
+		witdh : 93.75%
+		margin :25px auto
+	}
+	.sidebar {
+		witdh : 100%
+		margin :25px 0	0;
+		float:right
+	
+	}
+	.sidebar . widget {
+		padding : 5%;
+	}
+	nav.menu ul {
+		witdh : 100%
+	}
+	nav menu ul {
+		float : inherit;
+	}
+	nav.menu ul li {
+		float : inherit;
+		margin : 0
+
+	}
+	nav.menu ul a {
+		padding : 15%;
+		font-size : 16px;
+		border-top :1px solid 
+		border-bottom :1px solid
+	}
+	.blog {
+		width :90%;
+	}
+	.conteudo {
+		fload : inherid;
+		margin : 0 auto 25px;
+		width :101%;
+		border :1px solid;
+		padding :5%;
+		baground : red;
+	}
+	.conteudo img {
+		max-width : 110%;
+		margin:0  0 25% - 50;
+		min-width: 110%;
+	}
+	.conteudo .continue-lendo : hover {
+		margin-left:0;
+	}
+}
